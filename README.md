@@ -275,7 +275,7 @@ Open: dashboards/Supply_Chain_Dashboard.pdf
 
 Passionate about transforming complex data into strategic business insights, with a focus on Python, SQL, and Business Intelligence tools.
 
-- LinkedIn: [linkedin.com/in/nisanur-altay](www.linkedin.com/in/nisanuraltay)
+- LinkedIn: [[www.linkedin.com/in/nisanuraltay](https://www.linkedin.com/in/nisanuraltay/))
 - GitHub: [@Nisanuraltay](https://github.com/Nisanuraltay)
 
 ---
