@@ -1,0 +1,27 @@
+
+============================================================
+    TEDARIK ZINCİRİ VERİ TEMİZLEME RAPORU
+============================================================
+
+📊 VERİ BOYUTU
+   • Toplam Sipariş: 180,519
+   • Tarih Aralığı: 2015-01-01 - 2018-01-31
+   • Ülke Sayısı: 2
+   • Ürün Kategorisi: 50
+
+⏱️ TESLIMAT PERFORMANSI
+   • Ortalama Gecikme: 0.57 gün
+   • Gecikmeli Sipariş: 103,400 (57.3%)
+   • Zamanında Teslimat: 32,196 (17.8%)
+
+💰 FINANSAL ÖZET
+   • Toplam Satış: $36,784,735
+   • Ortalama Sipariş: $183.11
+   • Toplam Ürün: 384,079
+
+🚚 LOJİSTİK
+   • Sevkiyat Modu: 4 farklı mod
+   • En çok kullanılan: Standard Class
+   • Yüksek risk sipariş: 98,977
+
+============================================================
